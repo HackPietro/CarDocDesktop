@@ -1,3 +1,5 @@
+Progetto universitario per il corso di User Interface Design, finalizzato all'apprendimento di Java, FXML e CSS.
+
 Codici coupon:
 
    1   ->   100€
