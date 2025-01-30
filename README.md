@@ -1,4 +1,4 @@
-Progetto universitario per il corso di User Interface Design, finalizzato all'apprendimento di Java, FXML e CSS.
+Progetto universitario per il corso di User Interfaces Design, finalizzato all'apprendimento di Java, FXML e CSS.
 
 Codici coupon:
 
