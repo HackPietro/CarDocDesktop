@@ -122,6 +122,4 @@ Il file incluso contiene 48 prodotti, 6 per ciascuna delle 8 categorie.
 
 ## Autore
 
-**Pietro Cimino** · [@HackPietro](https://github.com/HackPietro)
-**Francesco Campagna**
-**Cataldo Federico**
+**Pietro Cimino** · [@HackPietro](https://github.com/HackPietro), **Francesco Campagna**, **Cataldo Federico**
